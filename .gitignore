@@ -4,3 +4,5 @@ files/*.csv
 files\*.csv
 Corp_Favor_TSR.ipynb
 .ipynb_checkpoints/Corp_Favor_TSR_re-checkpoint.ipynb
+test_data_cleaning.ipynb
+.ipynb_checkpoints/test_data_cleaning-checkpoint.ipynb
